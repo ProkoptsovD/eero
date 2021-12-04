@@ -1,0 +1,33 @@
+:root {
+  --button-color: #2468ff;
+  --main-text-color: #ffffff;
+  --secondary-text-color: #404040;
+  --main-bg-color: #161f49;
+  --bg-color: rgba(0, 0, 0, 0.5);
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 1.4;
+
+  color: var(--secondary-text-color);
+}
+
+a {
+  text-decoration: none;
+}
+
+ul,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
