@@ -48,3 +48,30 @@ h5 {
   line-height: 1.14;
   text-align: center;
 }
+
+.potential {
+  background-color: var(--main-bg-color);
+}
+.potential-title {
+  font-size: 50px;
+  line-height: 1.2;
+  text-align: center;
+  color: var(--main-text-color);
+}
+
+.potential-text {
+  color: var(--main-text-color);
+}
+
+.button {
+  color: var(--main-text-color);
+  background-color: var(--button-color);
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 1;
+  text-align: center;
+  letter-spacing: 0.11px;
+  text-transform: uppercase;
+}
