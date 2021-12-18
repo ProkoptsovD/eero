@@ -185,7 +185,11 @@ p {
   border: 1px solid #fff;
   background-color: transparent;
 }
-
+/* description section  */
+.desctiption-container {
+  padding-left: 352px;
+  padding-right: 352px;
+}
 .amazon-box {
   padding: 100px 0;
   text-align: center;
@@ -195,7 +199,6 @@ p {
   line-height: 1.15;
   text-align: center;
   color: var(--secondary-text-color);
-
 }
 .amazon-img {
   margin-top: 20px;
@@ -206,10 +209,27 @@ p {
 }
 
 .amazon-button {
-  border:none ;
+  border: none;
   border-bottom: 1px solid var(--secondary-text-color);
   background: transparent;
   padding-bottom: 5px;
   text-transform: uppercase;
   color: var(--secondary-text-color);
+}
+.description-title {
+  font-size: 50px;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: center;
+  color: var(--secondary-text-color);
+}
+.description-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+
+  margin-top: 44px;
+  text-align: center;
+  margin-bottom: 78px;
 }
