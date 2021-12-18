@@ -100,9 +100,13 @@ p {
 
 .logo-nav {
   display: block;
-  padding-top: 16px;
-  padding-bottom: 17px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   padding-left: 36px;
+}
+
+.logo-nav img {
+  height: 45px;
 }
 
 .nav-list {
@@ -113,6 +117,7 @@ p {
 
 .nav-link {
   color: var(--secondary-text-color);
+  line-height: ;
 }
 
 .nav-item:not(:last-child) {
@@ -129,4 +134,15 @@ p {
 
 .nav-button {
   margin-left: auto;
+  background-color: var(--button-color);
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.79;
+  text-align: center;
+  text-transform: uppercase;
+  color: var(--main-text-color);
+
+  padding: 0px 64px;
+  border: none;
 }
