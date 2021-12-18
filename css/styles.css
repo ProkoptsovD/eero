@@ -97,3 +97,36 @@ p {
   padding-top: 5px;
   padding-bottom: 5px;
 }
+
+.logo-nav {
+  display: block;
+  padding-top: 16px;
+  padding-bottom: 17px;
+  padding-left: 36px;
+}
+
+.nav-list {
+  display: flex;
+  align-items: center;
+  margin-left: 195px;
+}
+
+.nav-link {
+  color: var(--secondary-text-color);
+}
+
+.nav-item:not(:last-child) {
+  margin-right: 37px;
+}
+
+.header-container {
+  display: flex;
+}
+
+.nav {
+  display: flex;
+}
+
+.nav-button {
+  margin-left: auto;
+}
