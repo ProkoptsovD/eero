@@ -117,7 +117,6 @@ p {
 
 .nav-link {
   color: var(--secondary-text-color);
-  line-height: ;
 }
 
 .nav-item:not(:last-child) {
@@ -145,4 +144,44 @@ p {
 
   padding: 0px 64px;
   border: none;
+}
+/* hero styles */
+.hero__container {
+  text-align: center;
+  padding-top: 120px;
+  background-color: var(--bg-color);
+  background-image: url(../images/bgHero.jpg);
+  background-repeat: no-repeat;
+  background-size: 1440px, 591px;
+  background-position: top;
+}
+.hero__title {
+  font-size: 72px;
+  line-height: 1.11;
+
+  color: var(--main-text-color);
+  margin-bottom: 24px;
+}
+.hero__text {
+  font-size: 21px;
+  line-height: 1.38;
+  color: var(--main-text-color);
+  margin-bottom: 16px;
+}
+.hero__foto {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.hero__button {
+  margin-bottom: 87px;
+  padding: 16px 27px;
+  font-size: 14px;
+  line-height: 0.96;
+  text-align: center;
+  letter-spacing: 0.11px;
+  text-transform: uppercase;
+  color: var(--main-text-color);
+  border: 1px solid #fff;
+  background-color: transparent;
 }
