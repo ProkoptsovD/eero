@@ -9,6 +9,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./css/modern-normalize.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
     <link rel="stylesheet" href="./css/styles.css">
 </head>
 <body>
@@ -55,7 +57,7 @@
         <!-- hero section -->
         <section class="hero">
             <div class="container hero__container">
-                <h1 class="hero__title">Wi-Fi 6 is here.</h1>
+                <h1 class="hero__title animate__animated animate__fadeInLeft">Wi-Fi 6 is here.</h1>
                 <p class="hero__text">The future of home wifi is fast.</p>
                 <button type="button" class="hero__button">SHOP WIFI SOLUTIONS</button>
                 <img src="./images/routerEero.png" alt="Foto router Eero" class="hero__foto">
@@ -69,7 +71,7 @@
                     <img class="amazon-img" src="./images/amazon.svg" alt="amazon">
                     <button class="amazon-button" type="button">Shop now</button>
                 </div>
-                <h2 class="description-title">
+                <h2 class="description-title animate__animated animate__fadeInLeft wow">
                     More wifi for the devices your<br> connected home.
                 </h2>
                 <p class="description-text">
@@ -143,7 +145,10 @@
         </section>
 
     </main>
-
+    <script src="js/wow.min.js"></script>
+        <script>
+        new WOW().init();
+        </script>
 
 </body>
 </html>
