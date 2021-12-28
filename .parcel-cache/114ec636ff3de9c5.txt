@@ -1,0 +1,40 @@
+39
+60C:\Users\Bereg\Documents\GitHub\parcel-project-eero\src\sass132851920728247109 1
+62C:\Users\Bereg\Documents\GitHub\parcel-project-eero\src\images132851920728037239 1
+62C:\Users\Bereg\Documents\GitHub\parcel-project-eero\.gitignore132739472310000000 0
+69C:\Users\Bereg\Documents\GitHub\parcel-project-eero\ (2).editorconfig132739472310000000 0
+70C:\Users\Bereg\Documents\GitHub\parcel-project-eero\src\sass\main.scss132739472310000000 0
+66C:\Users\Bereg\Documents\GitHub\parcel-project-eero\ (2).gitignore132739472310000000 0
+64C:\Users\Bereg\Documents\GitHub\parcel-project-eero\src\index.js132739472310000000 0
+66C:\Users\Bereg\Documents\GitHub\parcel-project-eero\.posthtmlrc.js132739472310000000 0
+59C:\Users\Bereg\Documents\GitHub\parcel-project-eero\.github132739472310000000 1
+67C:\Users\Bereg\Documents\GitHub\parcel-project-eero\ (2).htmlnanorc132739472310000000 0
+63C:\Users\Bereg\Documents\GitHub\parcel-project-eero\ (2).sassrc132739472310000000 0
+67C:\Users\Bereg\Documents\GitHub\parcel-project-eero\.browserslistrc132739472310000000 0
+84C:\Users\Bereg\Documents\GitHub\parcel-project-eero\.github\workflows\deploy (2).yml132739472310000000 0
+65C:\Users\Bereg\Documents\GitHub\parcel-project-eero\.editorconfig132739472310000000 0
+63C:\Users\Bereg\Documents\GitHub\parcel-project-eero\.htmlnanorc132739472310000000 0
+68C:\Users\Bereg\Documents\GitHub\parcel-project-eero\src\index (2).js132739472310000000 0
+64C:\Users\Bereg\Documents\GitHub\parcel-project-eero\package.json132739472310000000 0
+70C:\Users\Bereg\Documents\GitHub\parcel-project-eero\.posthtmlrc (2).js132739472310000000 0
+72C:\Users\Bereg\Documents\GitHub\parcel-project-eero\.prettierrc (2).yaml132739472310000000 0
+68C:\Users\Bereg\Documents\GitHub\parcel-project-eero\.prettierrc.yaml132739472310000000 0
+73C:\Users\Bereg\Documents\GitHub\parcel-project-eero\package-lock (2).json132739472310000000 0
+59C:\Users\Bereg\Documents\GitHub\parcel-project-eero\.sassrc132739472310000000 0
+68C:\Users\Bereg\Documents\GitHub\parcel-project-eero\package (2).json132739472310000000 0
+69C:\Users\Bereg\Documents\GitHub\parcel-project-eero\package-lock.json132739472310000000 0
+65C:\Users\Bereg\Documents\GitHub\parcel-project-eero\README (2).md132739472310000000 0
+61C:\Users\Bereg\Documents\GitHub\parcel-project-eero\README.md132739472310000000 0
+55C:\Users\Bereg\Documents\GitHub\parcel-project-eero\src132851920727977262 1
+70C:\Users\Bereg\Documents\GitHub\parcel-project-eero\src\index (2).html132739472310000000 0
+66C:\Users\Bereg\Documents\GitHub\parcel-project-eero\src\index.html132739472310000000 0
+64C:\Users\Bereg\Documents\GitHub\parcel-project-eero\src\partials132851920728107181 1
+74C:\Users\Bereg\Documents\GitHub\parcel-project-eero\src\sass\main (2).scss132739472310000000 0
+78C:\Users\Bereg\Documents\GitHub\parcel-project-eero\src\sass\_example (2).scss132739472310000000 0
+74C:\Users\Bereg\Documents\GitHub\parcel-project-eero\src\sass\_example.scss132739472310000000 0
+81C:\Users\Bereg\Documents\GitHub\parcel-project-eero\src\partials\example (2).html132739472310000000 0
+77C:\Users\Bereg\Documents\GitHub\parcel-project-eero\src\partials\example.html132739472310000000 0
+75C:\Users\Bereg\Documents\GitHub\parcel-project-eero\src\images\demo (2).jpg132739472310000000 0
+71C:\Users\Bereg\Documents\GitHub\parcel-project-eero\src\images\demo.jpg132739472310000000 0
+69C:\Users\Bereg\Documents\GitHub\parcel-project-eero\.github\workflows132851920726957864 1
+80C:\Users\Bereg\Documents\GitHub\parcel-project-eero\.github\workflows\deploy.yml132739472310000000 0
