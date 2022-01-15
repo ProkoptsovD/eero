@@ -14,7 +14,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     
+   
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
    
   </head>
   
@@ -125,21 +127,7 @@
           </div>
         </section>
         <!-- potential section -->
-        <section class="potential">
-          <div class="container">
-            <h2 class="potential-title">
-              Unlock your wifi’s potential.
-            </h2>
-            <p class="potential-text">
-              Both eero 6 and eero Pro 6 feature a built-in Zigbee smart home hub, making it easy to connect compatible
-              devices with
-              Alexa. So you can control certain lights, locks, plugs, and more—without the need to buy separate smart home
-              hubs for
-              each.
-            </p>
-            <a href="#" class="button">Learn More</a>
-          </div>
-        </section>
+        <include src="./partials/potential.html"></include>
     
         <section class="connectivity">
           <div class="container">
@@ -165,6 +153,19 @@
     
     <!-- Скрипт идёт последним в разметке. В нём уже подключен главный SASS-файл. -->
     <script src="./index.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <script>
+      $('.potential__slider').slick({
+          dots: true,
+          // arrows: true,
+          infinite: false,
+          speed: 500,
+          fade: true,
+          cssEase: 'linear'
+        });
+    </script>
     </body>
     
   
