@@ -1,0 +1,34 @@
+.potential__slide--first {
+  background-image: url(../images/slider-img.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.potential__slide--second {
+  background-image: url(../images/slider-img2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.potential__slide--third {
+  background-image: url(../images/slider-img3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.potential__slide {
+  text-align: center;
+  width: 1440px;
+  height: 800px;
+}
+.slick-dots li button:before {
+  position: absolute;
+  top: -400%;
+  left: 0;
+  content: '•';
+  width: 20px;
+  height: 20px;
+  font-family: 'slick';
+  font-size: 30px;
+  line-height: 20px;
+  text-align: center;
+  color: white;
+  opacity: 0.25;
+}

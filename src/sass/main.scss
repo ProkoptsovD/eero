@@ -13,6 +13,10 @@
 //   --bg-color: rgba(0, 0, 0, 0.5);
 // }
 
+@import './slick';
+@import './slick-theme';
+@import './potential';
+
 body {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
